@@ -1,0 +1,782 @@
+1481959517893	geckodriver	INFO	Listening on 127.0.0.1:57986
+1481959517913	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.4x5ZQ1UY0ZQF
+1481959517914	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959517919	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57993
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959518642	Marionette	INFO	Listening on port 57993
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1481959566585	geckodriver	INFO	Listening on 127.0.0.1:58054
+1481959567598	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.ovGZLzilC0JR
+1481959567600	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959567606	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58063
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959568244	Marionette	INFO	Listening on port 58063
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1481959618660	geckodriver	INFO	Listening on 127.0.0.1:58128
+1481959618679	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.Uw6nK8JcFZcW
+1481959618680	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959618685	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58135
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959619393	Marionette	INFO	Listening on port 58135
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1481959639531	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481959639534	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1481959653131	geckodriver	INFO	Listening on 127.0.0.1:58192
+1481959653145	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.GqxdcJQhyr33
+1481959653146	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959653150	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58199
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959653821	Marionette	INFO	Listening on port 58199
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 24846] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24846] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481959699100	geckodriver	INFO	Listening on 127.0.0.1:58244
+1481959700114	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.R3UzOy7sXSlB
+1481959700116	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959700121	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58254
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959700733	Marionette	INFO	Listening on port 58254
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 24859] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24859] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481959775597	geckodriver	INFO	Listening on 127.0.0.1:58321
+1481959776607	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.uq3ALU6gF6Fo
+1481959776608	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959776612	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58330
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959777224	Marionette	INFO	Listening on port 58330
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 24878] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24878] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481959859268	geckodriver	INFO	Listening on 127.0.0.1:58390
+1481959859282	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.yUPXwNbFHvSL
+1481959859283	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959859287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58397
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959860005	Marionette	INFO	Listening on port 58397
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24898] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24898] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481959875468	geckodriver	INFO	Listening on 127.0.0.1:58441
+1481959875480	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.HGO5yrVUbCdo
+1481959875481	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481959875485	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58448
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481959876160	Marionette	INFO	Listening on port 58448
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24907] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 24907] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 24907] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24907] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481960015240	geckodriver	INFO	Listening on 127.0.0.1:58506
+1481960015252	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.EYQF9dRIVRBg
+1481960015253	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960015257	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58513
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960015928	Marionette	INFO	Listening on port 58513
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 24925] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24925] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481960120494	geckodriver	INFO	Listening on 127.0.0.1:58570
+1481960120504	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.wc4pQQZaWuJB
+1481960120505	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960120509	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58577
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960121209	Marionette	INFO	Listening on port 58577
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24942] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24942] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481960155122	geckodriver	INFO	Listening on 127.0.0.1:58623
+1481960156136	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.FMobtUughzbx
+1481960156140	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960156148	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58632
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960156789	Marionette	INFO	Listening on port 58632
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24955] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24955] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481960248504	geckodriver	INFO	Listening on 127.0.0.1:58691
+1481960248516	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.tRtFr6XLUHps
+1481960248517	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960248522	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58698
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960249224	Marionette	INFO	Listening on port 58698
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 24977] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 24977] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 24977] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 24977] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481960486956	geckodriver	INFO	Listening on 127.0.0.1:58760
+1481960487970	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.VWT76hcWHUYq
+1481960487971	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960487977	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58769
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960488583	Marionette	INFO	Listening on port 58769
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25079] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25079] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481960629978	geckodriver	INFO	Listening on 127.0.0.1:58826
+1481960630986	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.XR9Aup3iU43T
+1481960630987	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960630991	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58835
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960631718	Marionette	INFO	Listening on port 58835
+1481960632977	geckodriver	INFO	Listening on 127.0.0.1:58856
+1481960632984	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.uANvpKSFGh9r
+1481960632985	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960632993	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58863
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960634078	Marionette	INFO	Listening on port 58863
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 25105] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25105] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25108] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25108] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481960998217	geckodriver	INFO	Listening on 127.0.0.1:59099
+1481960999229	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.aVvC2845lCpp
+1481960999231	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481960999237	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59108
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481960999864	Marionette	INFO	Listening on port 59108
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25172] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25172] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481961089069	geckodriver	INFO	Listening on 127.0.0.1:59148
+1481961090080	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.WB0w4gbm4aWk
+1481961090081	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481961090085	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59157
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481961090774	Marionette	INFO	Listening on port 59157
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25187] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481961099609	geckodriver	INFO	Listening on 127.0.0.1:59195
+1481961100621	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.hHUSFkGVyt5C
+1481961100622	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481961100626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59204
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481961101325	Marionette	INFO	Listening on port 59204
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25194] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25194] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481961112594	geckodriver	INFO	Listening on 127.0.0.1:59246
+1481961113603	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.BiBViEAaX7Dk
+1481961113604	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481961113608	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59255
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481961114298	Marionette	INFO	Listening on port 59255
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25202] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25202] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481961681859	geckodriver	INFO	Listening on 127.0.0.1:59588
+1481961681872	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.gmyUR3y1FxwA
+1481961681874	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481961681878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59595
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481961682630	Marionette	INFO	Listening on port 59595
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25314] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25314] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481961726537	geckodriver	INFO	Listening on 127.0.0.1:59646
+1481961726551	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.X8zF67avjXwF
+1481961726552	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481961726559	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59653
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481961727246	Marionette	INFO	Listening on port 59653
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25331] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 25331] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 25331] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25331] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481961968096	geckodriver	INFO	Listening on 127.0.0.1:59741
+1481961968110	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.sfX3nHTMGwjF
+1481961968111	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481961968115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59748
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481961968815	Marionette	INFO	Listening on port 59748
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25385] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25385] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481962015039	geckodriver	INFO	Listening on 127.0.0.1:59794
+1481962015052	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.sE0VE9s7lbrZ
+1481962015053	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481962015057	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59801
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481962015756	Marionette	INFO	Listening on port 59801
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25401] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25401] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481962092845	geckodriver	INFO	Listening on 127.0.0.1:59863
+1481962092858	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.kiEu782y3KJ1
+1481962092859	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481962092863	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59870
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481962093557	Marionette	INFO	Listening on port 59870
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25414] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25414] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481962261374	geckodriver	INFO	Listening on 127.0.0.1:60033
+1481962261387	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.TNyBRZx50F1x
+1481962261388	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481962261396	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60040
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481962262086	Marionette	INFO	Listening on port 60040
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25449] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25449] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481962294824	geckodriver	INFO	Listening on 127.0.0.1:60088
+1481962294837	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.uQOnwM1f2AaU
+1481962294837	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481962294841	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60095
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481962295565	Marionette	INFO	Listening on port 60095
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25461] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25461] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481962563977	geckodriver	INFO	Listening on 127.0.0.1:60333
+1481962563991	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.nnktviSUfdxh
+1481962563992	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481962563996	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60340
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481962564692	Marionette	INFO	Listening on port 60340
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25505] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 25505] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 25505] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25505] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481962872548	geckodriver	INFO	Listening on 127.0.0.1:60452
+1481962872560	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.hK3pR1Pt5DsM
+1481962872561	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481962872566	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60459
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481962873333	Marionette	INFO	Listening on port 60459
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25530] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25530] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481962898248	geckodriver	INFO	Listening on 127.0.0.1:60505
+1481962899263	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.GRcrYJZNhXpG
+1481962899264	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481962899269	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60514
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481962899906	Marionette	INFO	Listening on port 60514
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25542] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 25542] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25542] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481964061273	geckodriver	INFO	Listening on 127.0.0.1:60739
+1481964061286	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.0Pm1pHTL7c7j
+1481964061287	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481964061291	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60746
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481964062031	Marionette	INFO	Listening on port 60746
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25653] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25653] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481964132821	geckodriver	INFO	Listening on 127.0.0.1:60811
+1481964132834	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.pqjuGkcr2OYD
+1481964132835	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481964132839	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481964133536	Marionette	INFO	Listening on port 60818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25671] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25671] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481964151225	geckodriver	INFO	Listening on 127.0.0.1:60869
+1481964152235	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.2275bSlyoint
+1481964152237	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481964152241	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60878
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481964152975	Marionette	INFO	Listening on port 60878
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25686] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25686] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481964184836	geckodriver	INFO	Listening on 127.0.0.1:60936
+1481964185852	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.5lMLaeDk6UzO
+1481964185853	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481964185859	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60945
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481964186488	Marionette	INFO	Listening on port 60945
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1481964236875	geckodriver	INFO	Listening on 127.0.0.1:61004
+1481964237887	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.mnaha8qGFoJk
+1481964237888	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481964237892	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61013
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481964238545	Marionette	INFO	Listening on port 61013
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25715] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25715] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481965448909	geckodriver	INFO	Listening on 127.0.0.1:61160
+1481965448923	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.P44IjJaqy1Ug
+1481965448924	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481965448927	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61167
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481965449704	Marionette	INFO	Listening on port 61167
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481965970248	geckodriver	INFO	Listening on 127.0.0.1:61249
+1481965970262	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.zxzSRJ3r70HT
+1481965970263	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481965970267	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61256
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481965970970	Marionette	INFO	Listening on port 61256
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966041693	geckodriver	INFO	Listening on 127.0.0.1:61299
+1481966041706	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.efo7On7kfI8W
+1481966041707	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481966041711	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61306
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966042385	Marionette	INFO	Listening on port 61306
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 25858] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25858] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481966139554	geckodriver	INFO	Listening on 127.0.0.1:61557
+1481966139570	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.TOyvIF5lon4F
+1481966139571	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481966139575	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61564
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966140295	Marionette	INFO	Listening on port 61564
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25909] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25909] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481966222592	geckodriver	INFO	Listening on 127.0.0.1:61631
+1481966222604	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.KTUW5xot4QuV
+1481966222605	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481966222609	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61638
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966223288	Marionette	INFO	Listening on port 61638
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 25926] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 25926] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481966253209	geckodriver	INFO	Listening on 127.0.0.1:61703
+1481966253224	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.JyqARYE6MVXO
+1481966253224	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481966253229	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61710
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966253916	Marionette	INFO	Listening on port 61710
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1481966335323	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 77: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1481966598000	geckodriver	INFO	Listening on 127.0.0.1:61791
+1481966598012	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.vtwr1ULS2o5W
+1481966598013	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481966598017	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61798
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966598679	Marionette	INFO	Listening on port 61798
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 26018] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 26018] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 26018] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 26018] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1481966743901	geckodriver	INFO	Listening on 127.0.0.1:61869
+1481966744915	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.75BmSySTEEBR
+1481966744917	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481966744923	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61878
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966745454	geckodriver	INFO	Listening on 127.0.0.1:61889
+1481966745628	Marionette	INFO	Listening on port 61878
+1481966746467	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.EaqfboM0LbFV
+1481966746468	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481966746472	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61905
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481966747350	Marionette	INFO	Listening on port 61905
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1481967276743	geckodriver	INFO	Listening on 127.0.0.1:62315
+1481967277753	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.cRbaRFlD8Xvm
+1481967277755	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1481967277761	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62324
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1481967278564	Marionette	INFO	Listening on port 62324
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 26118] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 26118] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482117758086	geckodriver	INFO	Listening on 127.0.0.1:53735
+1482117759087	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.Ptm1RqK06uD3
+1482117759088	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482117759116	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53744
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482117760200	Marionette	INFO	Listening on port 53744
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 1959] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 1959] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482126979745	geckodriver	INFO	Listening on 127.0.0.1:54498
+1482126980759	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.TALGOmzaMdEI
+1482126980761	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482126980766	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54504
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482126981431	Marionette	INFO	Listening on port 54504
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2104] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2104] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482127014950	geckodriver	INFO	Listening on 127.0.0.1:54650
+1482127015960	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.s44Cim7oiGJw
+1482127015961	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482127015966	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54656
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482127016597	Marionette	INFO	Listening on port 54656
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2138] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2138] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482127119114	geckodriver	INFO	Listening on 127.0.0.1:54811
+1482127120120	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.16Oh9whxEMfm
+1482127120121	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482127120126	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482127120732	Marionette	INFO	Listening on port 54818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2175] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2175] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482127328204	geckodriver	INFO	Listening on 127.0.0.1:55022
+1482127329216	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.y5xpAE23aNzA
+1482127329218	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482127329223	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55028
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482127329872	Marionette	INFO	Listening on port 55028
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 2222] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2222] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482127456480	geckodriver	INFO	Listening on 127.0.0.1:55089
+1482127457492	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.235vUrx3HkOk
+1482127457494	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482127457499	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55095
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482127458153	Marionette	INFO	Listening on port 55095
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2252] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2252] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2252] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2252] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482127521810	geckodriver	INFO	Listening on 127.0.0.1:55124
+1482127522819	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.cN8app1TuKUO
+1482127522821	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482127522827	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55130
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482127523439	Marionette	INFO	Listening on port 55130
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2260] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2260] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482127837475	geckodriver	INFO	Listening on 127.0.0.1:55289
+1482127837489	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.qXXe8tczm1SL
+1482127837490	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482127837495	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55293
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482127838256	Marionette	INFO	Listening on port 55293
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482127925493	geckodriver	INFO	Listening on 127.0.0.1:55585
+1482127926506	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.jNvZRXXiKBVk
+1482127926508	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482127926512	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55594
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482127927135	Marionette	INFO	Listening on port 55594
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482127957735	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 2329] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2329] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482129722029	geckodriver	INFO	Listening on 127.0.0.1:57530
+1482129723032	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.3x0ddMujkfmZ
+1482129723034	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482129723039	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57539
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482129723775	Marionette	INFO	Listening on port 57539
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482129805277	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[Child 2555] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2555] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482130490747	geckodriver	INFO	Listening on 127.0.0.1:57752
+1482130491760	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.Sj3fo8ZeKHEZ
+1482130491762	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482130491767	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57761
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482130492370	Marionette	INFO	Listening on port 57761
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2593] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2593] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482130970345	geckodriver	INFO	Listening on 127.0.0.1:58103
+1482130971360	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.Xyt20qrfWnYU
+1482130971362	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482130971368	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58112
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482130972040	Marionette	INFO	Listening on port 58112
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482131053522	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2656] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2656] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2656] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2656] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482131060606	geckodriver	INFO	Listening on 127.0.0.1:58417
+1482131061619	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.liC048YvENpQ
+1482131061621	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131061626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58426
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131062267	Marionette	INFO	Listening on port 58426
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2693] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2693] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482131092361	geckodriver	INFO	Listening on 127.0.0.1:58495
+1482131093375	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.aXoJlLKQfBVr
+1482131093376	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131093382	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58504
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131094032	Marionette	INFO	Listening on port 58504
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 2705] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2705] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 2705] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2705] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482131129999	geckodriver	INFO	Listening on 127.0.0.1:58602
+1482131131013	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.sFiw6zRsQlwH
+1482131131015	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131131020	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58611
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131131683	Marionette	INFO	Listening on port 58611
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2724] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2724] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482131185724	geckodriver	INFO	Listening on 127.0.0.1:58692
+1482131186737	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.2AAYd1u4di0l
+1482131186739	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131186744	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58701
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131187382	Marionette	INFO	Listening on port 58701
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482131391940	geckodriver	INFO	Listening on 127.0.0.1:58949
+1482131392950	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.y5ikABZeanNj
+1482131392950	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131392955	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58958
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131393608	Marionette	INFO	Listening on port 58958
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2840] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2840] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482131492719	geckodriver	INFO	Listening on 127.0.0.1:59133
+1482131493730	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.ZriBId2Jl3ZQ
+1482131493732	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131493737	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59142
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131494359	Marionette	INFO	Listening on port 59142
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482131557268	geckodriver	INFO	Listening on 127.0.0.1:59219
+1482131558282	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.uEMtXXG7hvFv
+1482131558284	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131558288	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59229
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131558938	Marionette	INFO	Listening on port 59229
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131562113	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482131850152	geckodriver	INFO	Listening on 127.0.0.1:59324
+1482131851162	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.Kaa72g7Mzmxw
+1482131851163	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482131851169	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59333
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482131851847	Marionette	INFO	Listening on port 59333
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1482132833606	geckodriver	INFO	Listening on 127.0.0.1:60954
+1482132834618	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.SuTeowORmCOW
+1482132834620	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482132834626	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60963
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482132835254	Marionette	INFO	Listening on port 60963
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482132861320	geckodriver	INFO	Listening on 127.0.0.1:61044
+1482132862328	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.IgXPC9oHplGW
+1482132862329	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482132862333	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61058
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482132863096	Marionette	INFO	Listening on port 61058
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482132955752	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/listener.js, line 870: TypeError: can't access dead object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3139] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 3139] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+1482133183790	geckodriver	INFO	Listening on 127.0.0.1:61174
+1482133184808	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.WjNDLqLTyh6W
+1482133184809	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482133184814	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61183
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482133185488	Marionette	INFO	Listening on port 61183
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482133242894	geckodriver	INFO	Listening on 127.0.0.1:61266
+1482133243906	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.3Zv0p8Wj4TsT
+1482133243908	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482133243913	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61275
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482133244517	Marionette	INFO	Listening on port 61275
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 3: NS_ERROR_NOT_INITIALIZED: 
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1482133337025	geckodriver	INFO	Listening on 127.0.0.1:61326
+1482133338037	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.LcsWXD4vNJi5
+1482133338039	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482133338044	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61335
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482133338638	Marionette	INFO	Listening on port 61335
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3194] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3194] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482133417447	geckodriver	INFO	Listening on 127.0.0.1:61424
+1482133418460	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.GDyrFNwt581U
+1482133418461	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482133418467	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61433
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482133419091	Marionette	INFO	Listening on port 61433
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3211] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3211] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482133445598	geckodriver	INFO	Listening on 127.0.0.1:61516
+1482133446608	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.pOmMnCAizHel
+1482133446609	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482133446615	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61525
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482133447203	Marionette	INFO	Listening on port 61525
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482133459392	geckodriver	INFO	Listening on 127.0.0.1:61580
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3226] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3226] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482133460401	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.QAqwNUXg9TGc
+1482133460402	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482133460406	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61590
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482133461009	Marionette	INFO	Listening on port 61590
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3236] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3236] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482134832459	geckodriver	INFO	Listening on 127.0.0.1:61933
+1482134833471	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.8p9cxgwoF8fW
+1482134833473	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482134833477	geckodriver::marionette	INFO	Connecting to Marionette on localhost:61942
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482134834083	Marionette	INFO	Listening on port 61942
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3431] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3431] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482155783018	geckodriver	INFO	Listening on 127.0.0.1:63706
+1482155784020	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.3Tf7QxC6bXTn
+1482155784022	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482155784028	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63715
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482155785053	Marionette	INFO	Listening on port 63715
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1482158182246	geckodriver	INFO	Listening on 127.0.0.1:64281
+1482158182256	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.loJUwn380pd1
+1482158182257	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482158182262	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64288
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482158182968	Marionette	INFO	Listening on port 64288
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5043] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5043] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+2016-12-19 22:57:44.119 firefox-bin[4248:187716] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: 未能打开文件“FPInstallMountPoint”，因为您没有查看它的权限。

@@ -1,0 +1,551 @@
+1482134890572	geckodriver	INFO	Listening on 127.0.0.1:62017
+1482134891590	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.hVB0wNLhe2Ax
+1482134891592	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482134891597	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62026
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482134892309	Marionette	INFO	Listening on port 62026
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482134894283	geckodriver	INFO	Listening on 127.0.0.1:62047
+1482134895293	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.qfRKXP7ckjNa
+1482134895295	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482134895300	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62057
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482134895907	Marionette	INFO	Listening on port 62057
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482135047730	geckodriver	INFO	Listening on 127.0.0.1:62126
+1482135048740	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.ITywEkFMH0Mf
+1482135048742	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482135048747	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62135
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482135049435	Marionette	INFO	Listening on port 62135
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482135051293	geckodriver	INFO	Listening on 127.0.0.1:62159
+1482135052301	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.pM0LsjguRSYU
+1482135052303	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482135052309	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62169
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482135052941	Marionette	INFO	Listening on port 62169
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 3492] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3492] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482135092250	geckodriver	INFO	Listening on 127.0.0.1:62207
+1482135093263	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.iiO4skbD6w19
+1482135093264	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482135093270	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62216
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482135093941	Marionette	INFO	Listening on port 62216
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482135095803	geckodriver	INFO	Listening on 127.0.0.1:62235
+1482135096807	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.DP53fnLvxc4I
+1482135096809	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482135096818	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62247
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482135097480	Marionette	INFO	Listening on port 62247
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+[Child 3512] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3512] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482158380311	geckodriver	INFO	Listening on 127.0.0.1:64369
+1482158380325	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.spqyTlQ2SVVS
+1482158380326	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482158380330	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64376
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482158381120	Marionette	INFO	Listening on port 64376
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+2016-12-19 22:46:45.434 firefox-bin[5066:180735] -deltaZ is deprecated for NSEventTypeMagnify.  Please use -magnification.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1482159023723	geckodriver	INFO	Listening on 127.0.0.1:64522
+1482159023735	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.s7RR11RMd6cT
+1482159023736	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159023741	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64529
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159024410	Marionette	INFO	Listening on port 64529
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482159095922	geckodriver	INFO	Listening on 127.0.0.1:64641
+1482159095934	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.7TG7PvwI7jyn
+1482159095935	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159095939	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64648
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159096573	Marionette	INFO	Listening on port 64648
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482159105829	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1482159262353	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482159262360	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482159264215	geckodriver	INFO	Listening on 127.0.0.1:64771
+1482159265229	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.L3wIPNnVTRlw
+1482159265231	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159265236	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64780
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159265842	Marionette	INFO	Listening on port 64780
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482159447188	geckodriver	INFO	Listening on 127.0.0.1:64986
+1482159448201	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.PeQJ1t2sxrcj
+1482159448203	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159448208	geckodriver::marionette	INFO	Connecting to Marionette on localhost:64995
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159448852	Marionette	INFO	Listening on port 64995
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159450280	geckodriver	INFO	Listening on 127.0.0.1:65015
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482159451297	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.hZPDe4zGg3gV
+1482159451298	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159451303	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65036
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159452149	Marionette	INFO	Listening on port 65036
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+2016-12-19 22:57:43.871 firefox-bin[5266:188031] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: 未能打开文件“FPInstallMountPoint”，因为您没有查看它的权限。
+2016-12-19 22:57:43.872 plugin-container[5227:187308] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: The file “FPInstallMountPoint” couldn’t be opened because you don’t have permission to view it.
+2016-12-19 22:57:43.872 firefox-bin[5272:188248] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: 未能打开文件“FPInstallMountPoint”，因为您没有查看它的权限。
+2016-12-19 22:57:43.875 plugin-container[5267:188550] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: The file “FPInstallMountPoint” couldn’t be opened because you don’t have permission to view it.
+2016-12-19 22:57:43.885 plugin-container[5274:188339] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: The file “FPInstallMountPoint” couldn’t be opened because you don’t have permission to view it.
+2016-12-19 22:57:44.127 firefox-bin[5226:187783] kCFURLVolumeIsAutomountedKey missing for file://localhost/private/var/folders/zz/zyxvpxvq6csfxvn_n0000000000000/T/FPInstallMountPoint/: 未能打开文件“FPInstallMountPoint”，因为您没有查看它的权限。
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482159584894	geckodriver	INFO	Listening on 127.0.0.1:65401
+1482159585906	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.yL7O4E7sfQIZ
+1482159585907	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159585913	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65410
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159586650	Marionette	INFO	Listening on port 65410
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482159685812	geckodriver	INFO	Listening on 127.0.0.1:65496
+1482159685825	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.P2dtezV2owv5
+1482159685826	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159685830	geckodriver::marionette	INFO	Connecting to Marionette on localhost:65503
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159686566	Marionette	INFO	Listening on port 65503
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+1482159716217	geckodriver	INFO	Listening on 127.0.0.1:49195
+1482159717231	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.7xdpcpZ34Bgu
+1482159717233	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482159717239	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49204
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482159718013	Marionette	INFO	Listening on port 49204
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: chrome://marionette/content/listener.js, line 999: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIWebProgress.removeProgressListener]
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+1482160001986	geckodriver	INFO	Listening on 127.0.0.1:49341
+1482160002003	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.6XAxpfbRSdRi
+1482160002004	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482160002008	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49348
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482160002737	Marionette	INFO	Listening on port 49348
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5424] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5424] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482160039706	geckodriver	INFO	Listening on 127.0.0.1:49438
+1482160039718	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.FEHhBNwsXbiF
+1482160039719	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482160039723	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49445
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482160040383	Marionette	INFO	Listening on port 49445
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 5442] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 5442] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482160348515	geckodriver	INFO	Listening on 127.0.0.1:49616
+1482160348527	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.iMD7FCEtNcHZ
+1482160348528	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482160348535	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49623
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482160349200	Marionette	INFO	Listening on port 49623
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482160404143	geckodriver	INFO	Listening on 127.0.0.1:49691
+1482160404154	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.FezUdpQqYMKp
+1482160404155	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482160404159	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49698
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482160404822	Marionette	INFO	Listening on port 49698
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482160697444	geckodriver	INFO	Listening on 127.0.0.1:49864
+1482160697460	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.aV18suHv9ymE
+1482160697461	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482160697465	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49871
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482160698110	Marionette	INFO	Listening on port 49871
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482160841780	geckodriver	INFO	Listening on 127.0.0.1:49969
+1482160841792	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.oCUndwn4LpMf
+1482160841793	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482160841797	geckodriver::marionette	INFO	Connecting to Marionette on localhost:49976
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482160842447	Marionette	INFO	Listening on port 49976
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482160897099	geckodriver	INFO	Listening on 127.0.0.1:50063
+1482160897110	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.8RlIcxSZwbAR
+1482160897111	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482160897115	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50070
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482160897792	Marionette	INFO	Listening on port 50070
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482161071285	geckodriver	INFO	Listening on 127.0.0.1:50178
+1482161071297	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.BOHpgrxijl23
+1482161071298	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482161071302	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50185
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482161072028	Marionette	INFO	Listening on port 50185
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482161089654	geckodriver	INFO	Listening on 127.0.0.1:50251
+1482161090669	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.UxXiAWrn0qnp
+1482161090670	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482161090675	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50260
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482161091385	Marionette	INFO	Listening on port 50260
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+1482161312360	geckodriver	INFO	Listening on 127.0.0.1:50388
+1482161312377	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.BUPYPPZW8hvF
+1482161312378	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482161312382	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50395
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482161313173	Marionette	INFO	Listening on port 50395
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1482161484353	geckodriver	INFO	Listening on 127.0.0.1:50511
+1482161484379	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.SjUb69RU1qKG
+1482161484380	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482161484384	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50518
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482161485211	Marionette	INFO	Listening on port 50518
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1482161616089	geckodriver	INFO	Listening on 127.0.0.1:50609
+1482161616104	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.nawTFXSMlDl4
+1482161616105	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482161616109	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50616
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482161616929	Marionette	INFO	Listening on port 50616
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1482161681287	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482161681292	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1482162080472	geckodriver	INFO	Listening on 127.0.0.1:50811
+1482162080489	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.f4Rqx5CoHkZB
+1482162080490	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482162080494	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482162081198	Marionette	INFO	Listening on port 50818
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1482162441012	geckodriver	INFO	Listening on 127.0.0.1:50917
+1482162441024	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.ng2pBzzWcIEq
+1482162441025	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482162441029	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50924
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482162441703	Marionette	INFO	Listening on port 50924
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482162503948	geckodriver	INFO	Listening on 127.0.0.1:51008
+1482162503959	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.lDQY1JmLKcoR
+1482162503960	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482162503964	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51015
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482162504615	Marionette	INFO	Listening on port 51015
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482162542383	geckodriver	INFO	Listening on 127.0.0.1:51099
+1482162542395	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.535Jg1GMOXjy
+1482162542396	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482162542400	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51106
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482162543030	Marionette	INFO	Listening on port 51106
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482162589969	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+console.error: 
+  navigated; resolution of _defaultNode aborted
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+console.error: 
+  TabSources.prototype._fetchSourceMap threw an exception: SyntaxError: JSON.parse: unexpected character at line 4 column 1 of the JSON data
+Stack: SourceMapConsumer@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/sourcemap/source-map.js:1281:20
+TabSources.prototype._fetchSourceMap/fetching<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/utils/TabSources.js:469:19
+Handler.prototype.process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:937:23
+this.PromiseWalker.walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:816:7
+this.PromiseWalker.scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:750:11
+Line: 1281, column: 20
+1482162624471	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: timeout
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/inspector/breadcrumbs.js, line 486: TypeError: this.handleMouseLeave is not a function
+1482162981643	geckodriver	INFO	Listening on 127.0.0.1:51254
+1482162981656	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.4j0gPwaAGeGd
+1482162981657	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482162981661	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51261
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482162982364	Marionette	INFO	Listening on port 51261
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482218730207	geckodriver	INFO	Listening on 127.0.0.1:51957
+1482218731208	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.30dhn4nvowLj
+1482218731209	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482218731245	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51966
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482218731886	Marionette	INFO	Listening on port 51966
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482218798598	geckodriver	INFO	Listening on 127.0.0.1:52113
+1482218799611	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.E4fcUA6MPoWd
+1482218799612	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482218799618	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52119
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482218800242	Marionette	INFO	Listening on port 52119
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1482219263199	geckodriver	INFO	Listening on 127.0.0.1:52975
+1482219264209	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.xkucId8CBE1l
+1482219264211	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482219264216	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52981
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482219264936	Marionette	INFO	Listening on port 52981
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2877] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2877] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482219314856	geckodriver	INFO	Listening on 127.0.0.1:53117
+1482219315872	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.Rn37haWgDvgR
+1482219315874	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482219315878	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53123
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482219316546	Marionette	INFO	Listening on port 53123
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2904] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2904] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482219337569	geckodriver	INFO	Listening on 127.0.0.1:53197
+1482219338582	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.zUklmBo8FSpt
+1482219338583	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482219338589	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53203
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482219339204	Marionette	INFO	Listening on port 53203
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 2918] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2918] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482219453738	geckodriver	INFO	Listening on 127.0.0.1:53477
+1482219454750	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.SIgqdO1FJZqb
+1482219454751	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482219454757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53483
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482219455344	Marionette	INFO	Listening on port 53483
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3020] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3020] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482219495261	geckodriver	INFO	Listening on 127.0.0.1:53695
+1482219496273	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.5fT6AdWzaDuE
+1482219496275	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482219496280	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53701
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482219496893	Marionette	INFO	Listening on port 53701
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3046] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 3046] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 684
+[Child 3046] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3046] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482219791032	geckodriver	INFO	Listening on 127.0.0.1:54254
+1482219792042	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.WOAhfh0Gw4Sj
+1482219792043	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482219792048	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54260
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482219792675	Marionette	INFO	Listening on port 54260
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3156] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3156] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482220336891	geckodriver	INFO	Listening on 127.0.0.1:55240
+1482220337904	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.382Oz8bTfxIq
+1482220337906	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482220337911	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55246
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482220338544	Marionette	INFO	Listening on port 55246
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3235] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3235] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1482220379148	geckodriver	INFO	Listening on 127.0.0.1:55386
+1482220380162	mozprofile::profile	INFO	Using profile path /var/folders/1n/hbzcsdh93v73z_s71ch2d1g80000gn/T/rust_mozprofile.4ovIuSWhahE3
+1482220380163	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1482220380169	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55392
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1482220380813	Marionette	INFO	Listening on port 55392
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+JavaScript warning: http://www.bycoming.com/hrd/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.bycoming.com/hrd/assets/js/jquery-2.0.3.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+[Child 3264] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3264] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
