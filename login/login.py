@@ -21,7 +21,6 @@ class LoginTestCase():
             self.wd.find_element_by_id('user_pass').send_keys(self.pwd)
 
             self.input_captcha_login() # 输入验证码并登录
-
         except:
             print('expect login')
         finally:
@@ -43,6 +42,7 @@ class LoginTestCase():
         if self.urlLogin == self.wd.current_url:
             self.wd.find_element_by_id('img_code').click() # 刷新验证码
             self.input_captcha_login() # 输入验证码并登录
+            self.wd.implicitly_wait(10)
             print('验证码错误，已重新输入')
 
 

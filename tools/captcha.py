@@ -1,5 +1,9 @@
 # coding: "UTF-8"
 
+'''
+输出验证码内容
+'''
+
 from PIL import Image
 from PIL import ImageOps
 import pytesseract
