@@ -66,19 +66,18 @@ class DepartListTestCase(unittest.TestCase):
             print("添加员工")
 
             # WebDriverWait(self.wd, 5).until(EC.alert_is_present(), 'Error: 没有找到弹窗')
-            self.input_info(self)
+            self.input_info()
 
         except:
             print('except depart')
-            sleep(3)
-            self.wd.quit()
+
         finally:
             print('finally depart')
 
     # 添加员工信息，输入员工姓名和手机号测试
     def input_info(self):
-        # telphone = random_phoneNum.random_PhoneNumber(self)
-        telphone = '18911958679'
+        telphone = random_phoneNum.random_PhoneNumber()
+        # telphone = '18911958679'
         name = '测试名'
         print(telphone)
 
@@ -109,5 +108,5 @@ class DepartListTestCase(unittest.TestCase):
 if __name__ == '__main__':
     dep = DepartListTestCase()
     dep.test_depart_list()
-
-    # dep.wd.quit()
+    sleep(3)
+    self.wd.quit()
